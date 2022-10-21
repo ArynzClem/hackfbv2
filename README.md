@@ -5,7 +5,7 @@ pkg install git
 git clone https://github.com/ArynzClem/hackfbv2
 pip install bs4
 cd hackfbv2
-python Play.sh
+bash setup
 
 #Run
 enter cookies
