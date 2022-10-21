@@ -56,6 +56,6 @@ echo
 xdg-open https://youtube.com/channel/UCG_zgIRcf9wRnzsuMpz3aMQ
 sleep 3
 echo -e FREE COOKIES=datr=039SY5y90eAkLKHGwC6nlEr0;sb=039SY8o935rm1lG3u_snbzOs;fr=01FixhlyptEhEDBOC.AWV4L6zeYoCV4G8xCIEzomuGzcE.BjUn_T.HR.AAA.0.0.BjUn_b.AWVETGD0b3E;c_user=100085774461633;xs=21%3AXcbyHIo6icDBbQ%3A2%3A1666351068%3A-1%3A15782;m_page_voice=100085774461633;wd=360x566;
-wait a 5 sec
+echo -e wait a 5 sec
 sleep 5
 python Play.py
